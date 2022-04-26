@@ -1,0 +1,4 @@
+git add . //considerar os arquivos no controle de versão local. 
+git commit -m "commentario" //faz o commit para repositorio local
+git status //para ver o status dos commits 
+git push origin main // envia os commits locais para a nuvem. 
